@@ -9,8 +9,6 @@ nvm use node
 yarn dev:h5  
 ```
 
-
-
 ## run the project from github in local:  
 1. git clone project  from the github;  
 2. remove the yarnlock file;(fix the bug:[Failed to compile ./src/App.js Module not found: Can't resolve](https://stackoverflow.com/questions/48767118/failed-to-compile-src-app-js-module-not-found-cant-resolve)
