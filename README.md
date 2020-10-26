@@ -1,7 +1,7 @@
 ## uploa the project to the github:  
 1.You need to build a parent folder in the github;  
 2.according to the [Enviroment Building:](https://github.com/GlennOu66304/Tarominiprogram) to build the project;   
-3.Then remove the files in the project children into the parent project folder;   
+3.Then move the files in the project children into the parent project folder;   
 4.Test the project(under the parent project folder):   
 ```
 source ~/.bash_profile 
