@@ -1,4 +1,5 @@
 ## uploa the project to the github:  
+1.You need to build a parent folder in the github;  
 
 
 
